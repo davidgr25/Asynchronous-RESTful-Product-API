@@ -2,6 +2,11 @@
 
 Asynchronous RESTful microservice built with FastAPI, Layered Architecture, and SQLAlchemy 2.0 with asynchronous persistence (SQLite + aiosqlite).
 
+## Members
+David De Jesus Gonzalez Ramirez
+Julio Cesar Inda Jimenez
+Edgar Fabian Perez Zepeda
+
 ## 1. Layered Architecture
 - **API / Routers (`app/api/`)**: Handlers for HTTP requests, dependency injection, and status codes.
 - **Services (`app/services/`)**: Business logic, SKU uniqueness validation, and HTTP exceptions.
